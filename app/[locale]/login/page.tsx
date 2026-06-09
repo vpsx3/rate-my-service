@@ -34,12 +34,12 @@ export default async function LoginPage({
           </div>
           <h1 className="text-2xl font-bold">Rate My Service</h1>
           <p className="text-muted-foreground text-sm">
-            Sign in to rate servicers, leave vouches, and manage your profile.
+            Digite seu email para receber um link mágico de acesso.
           </p>
         </div>
         <LoginButton locale={locale} />
         <p className="text-center text-xs text-muted-foreground">
-          By signing in you agree to our Terms of Service.
+          Ao entrar você concorda com nossos Termos de Uso.
         </p>
       </div>
     </div>
